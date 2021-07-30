@@ -8,3 +8,6 @@ Plot TradingView Charts with Own Data :  Learn
 Stands for "Model-View-Controller." MVC is an application design model comprised of three interconnected parts. They include the model (data), the view (user interface), and the controller (processes that handle input).
 
 The MVC model or "pattern" is commonly used for developing modern user interfaces. It is provides the fundamental pieces for designing a programs for desktop or mobile, as well as web applications. It works well with object-oriented programming, since the different models, views, and controllers can be treated as objects and reused within an application.
+
+# Screen design
+![Image](https://github.com/noom1009/TradingViews/blob/main/public/Screen%20Shot%202021-07-30%20at%2011.33.00%20AM.png?raw=true?raw=true)
