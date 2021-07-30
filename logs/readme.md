@@ -1,0 +1,1 @@
+# logs error code & logs server run error

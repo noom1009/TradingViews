@@ -1,0 +1,1 @@
+# folder to use template engine to application A view is the means of displaying objects within an application. Examples include displaying a window or buttons or text within a window. It includes anything that the user can see.
